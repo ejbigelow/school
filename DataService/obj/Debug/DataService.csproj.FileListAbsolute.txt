@@ -1,0 +1,10 @@
+C:\Repo\IT481\Unit2\NtierApplication\NtierApplication\DataService\bin\Debug\DataService.dll.config
+C:\Repo\IT481\Unit2\NtierApplication\NtierApplication\DataService\bin\Debug\DataService.dll
+C:\Repo\IT481\Unit2\NtierApplication\NtierApplication\DataService\bin\Debug\DataService.pdb
+C:\Repo\IT481\Unit2\NtierApplication\NtierApplication\DataService\bin\Debug\DataAccessTier.dll
+C:\Repo\IT481\Unit2\NtierApplication\NtierApplication\DataService\bin\Debug\DataEntityTier.dll
+C:\Repo\IT481\Unit2\NtierApplication\NtierApplication\DataService\bin\Debug\DataAccessTier.pdb
+C:\Repo\IT481\Unit2\NtierApplication\NtierApplication\DataService\bin\Debug\DataEntityTier.pdb
+C:\Repo\IT481\Unit2\NtierApplication\NtierApplication\DataService\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+C:\Repo\IT481\Unit2\NtierApplication\NtierApplication\DataService\obj\Debug\DataService.dll
+C:\Repo\IT481\Unit2\NtierApplication\NtierApplication\DataService\obj\Debug\DataService.pdb
