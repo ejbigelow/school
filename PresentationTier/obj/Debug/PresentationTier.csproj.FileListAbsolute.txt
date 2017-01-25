@@ -20,3 +20,14 @@ C:\Repo\IT481\Unit3\NtierApplication\PresentationTier\obj\Debug\PresentationTier
 C:\Repo\IT481\Unit3\NtierApplication\PresentationTier\obj\Debug\PresentationTier.Form1.resources
 C:\Repo\IT481\Unit3\NtierApplication\PresentationTier\obj\Debug\PresentationTier.Properties.Resources.resources
 C:\Repo\IT481\Unit3\NtierApplication\PresentationTier\obj\Debug\PresentationTier.csproj.GenerateResource.Cache
+C:\Repo\IT481\Unit3\test\school\PresentationTier\bin\Debug\PresentationTier.exe.config
+C:\Repo\IT481\Unit3\test\school\PresentationTier\obj\Debug\PresentationTier.exe
+C:\Repo\IT481\Unit3\test\school\PresentationTier\obj\Debug\PresentationTier.pdb
+C:\Repo\IT481\Unit3\test\school\PresentationTier\bin\Debug\PresentationTier.exe
+C:\Repo\IT481\Unit3\test\school\PresentationTier\bin\Debug\PresentationTier.pdb
+C:\Repo\IT481\Unit3\test\school\PresentationTier\bin\Debug\DataEntityTier.dll
+C:\Repo\IT481\Unit3\test\school\PresentationTier\bin\Debug\DataEntityTier.pdb
+C:\Repo\IT481\Unit3\test\school\PresentationTier\obj\Debug\PresentationTier.csprojResolveAssemblyReference.cache
+C:\Repo\IT481\Unit3\test\school\PresentationTier\obj\Debug\PresentationTier.Form1.resources
+C:\Repo\IT481\Unit3\test\school\PresentationTier\obj\Debug\PresentationTier.Properties.Resources.resources
+C:\Repo\IT481\Unit3\test\school\PresentationTier\obj\Debug\PresentationTier.csproj.GenerateResource.Cache

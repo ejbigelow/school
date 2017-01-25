@@ -3,3 +3,8 @@ C:\Repo\IT481\Unit2\NtierApplication\NtierApplication\DataEntityTier\bin\Debug\D
 C:\Repo\IT481\Unit2\NtierApplication\NtierApplication\DataEntityTier\obj\Debug\DataEntityTier.csprojResolveAssemblyReference.cache
 C:\Repo\IT481\Unit2\NtierApplication\NtierApplication\DataEntityTier\obj\Debug\DataEntityTier.dll
 C:\Repo\IT481\Unit2\NtierApplication\NtierApplication\DataEntityTier\obj\Debug\DataEntityTier.pdb
+C:\Repo\IT481\Unit3\test\school\DataEntityTier\bin\Debug\DataEntityTier.dll
+C:\Repo\IT481\Unit3\test\school\DataEntityTier\bin\Debug\DataEntityTier.pdb
+C:\Repo\IT481\Unit3\test\school\DataEntityTier\obj\Debug\DataEntityTier.csprojResolveAssemblyReference.cache
+C:\Repo\IT481\Unit3\test\school\DataEntityTier\obj\Debug\DataEntityTier.dll
+C:\Repo\IT481\Unit3\test\school\DataEntityTier\obj\Debug\DataEntityTier.pdb
