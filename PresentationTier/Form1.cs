@@ -19,16 +19,11 @@ namespace PresentationTier
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            ServiceReference1.Service1Client DataSvc =
-new ServiceReference1.Service1Client();
-            northwindDataSet.Customers.Merge(DataSvc.GetCustomers());
-            northwindDataSet.Orders.Merge(DataSvc.GetOrders());
             this.Text = "Please sign in";
             label3.Hide();
             btn3_opt.Hide();
             btn4_next.Hide();
             pictureBox2.Hide();
-           // customersDataGridView.Hide();
             label1.Text = "User name:";
             label2.Text = "Password:";
             btn2_ok.Text = "Login";
@@ -71,7 +66,6 @@ new ServiceReference1.Service1Client();
             northwindDataSet.Customers.Merge(DataSvc.GetCustomers());
             northwindDataSet.Orders.Merge(DataSvc.GetOrders());
             this.Text = "Now viewing";
-            customersDataGridView.Show();
         }
     }
 }
