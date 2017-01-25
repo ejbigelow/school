@@ -73,7 +73,7 @@
             this.btn1_cancel.Location = new System.Drawing.Point(456, 294);
             this.btn1_cancel.Name = "btn1_cancel";
             this.btn1_cancel.Size = new System.Drawing.Size(75, 23);
-            this.btn1_cancel.TabIndex = 0;
+            this.btn1_cancel.TabIndex = 4;
             this.btn1_cancel.Text = "<btn1_cancel>";
             this.btn1_cancel.UseVisualStyleBackColor = true;
             this.btn1_cancel.Click += new System.EventHandler(this.btn1_cancel_Click);
@@ -106,7 +106,7 @@
             this.groupBox1.Location = new System.Drawing.Point(242, 40);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(289, 160);
-            this.groupBox1.TabIndex = 3;
+            this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "<groupBox1>";
             // 
@@ -116,14 +116,14 @@
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.PasswordChar = '*';
             this.txtPassword.Size = new System.Drawing.Size(157, 20);
-            this.txtPassword.TabIndex = 8;
+            this.txtPassword.TabIndex = 1;
             // 
             // txtUserName
             // 
             this.txtUserName.Location = new System.Drawing.Point(71, 34);
             this.txtUserName.Name = "txtUserName";
             this.txtUserName.Size = new System.Drawing.Size(157, 20);
-            this.txtUserName.TabIndex = 7;
+            this.txtUserName.TabIndex = 0;
             // 
             // label1
             // 
@@ -131,7 +131,7 @@
             this.label1.Location = new System.Drawing.Point(17, 34);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(47, 13);
-            this.label1.TabIndex = 5;
+            this.label1.TabIndex = 1;
             this.label1.Text = "<label1>";
             // 
             // label2
@@ -177,7 +177,7 @@
             this.btn4_next.Location = new System.Drawing.Point(376, 294);
             this.btn4_next.Name = "btn4_next";
             this.btn4_next.Size = new System.Drawing.Size(75, 23);
-            this.btn4_next.TabIndex = 7;
+            this.btn4_next.TabIndex = 3;
             this.btn4_next.Text = "<btn4_next>";
             this.btn4_next.UseVisualStyleBackColor = true;
             this.btn4_next.Click += new System.EventHandler(this.btn4_next_Click);
@@ -196,7 +196,6 @@
             this.Controls.Add(this.btn2_ok);
             this.Controls.Add(this.btn1_cancel);
             this.Name = "Form1";
-            this.Text = "<form1>";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.customersBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.northwindDataSet)).EndInit();
