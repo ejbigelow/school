@@ -6,3 +6,11 @@ C:\Repo\IT481\Unit2\NtierApplication\NtierApplication\DataAccessTier\bin\Debug\D
 C:\Repo\IT481\Unit2\NtierApplication\NtierApplication\DataAccessTier\obj\Debug\DataAccessTier.csprojResolveAssemblyReference.cache
 C:\Repo\IT481\Unit2\NtierApplication\NtierApplication\DataAccessTier\obj\Debug\DataAccessTier.dll
 C:\Repo\IT481\Unit2\NtierApplication\NtierApplication\DataAccessTier\obj\Debug\DataAccessTier.pdb
+C:\Repo\IT481\Unit3\test\school\DataAccessTier\bin\Debug\DataAccessTier.dll.config
+C:\Repo\IT481\Unit3\test\school\DataAccessTier\bin\Debug\DataAccessTier.dll
+C:\Repo\IT481\Unit3\test\school\DataAccessTier\bin\Debug\DataAccessTier.pdb
+C:\Repo\IT481\Unit3\test\school\DataAccessTier\bin\Debug\DataEntityTier.dll
+C:\Repo\IT481\Unit3\test\school\DataAccessTier\bin\Debug\DataEntityTier.pdb
+C:\Repo\IT481\Unit3\test\school\DataAccessTier\obj\Debug\DataAccessTier.csprojResolveAssemblyReference.cache
+C:\Repo\IT481\Unit3\test\school\DataAccessTier\obj\Debug\DataAccessTier.dll
+C:\Repo\IT481\Unit3\test\school\DataAccessTier\obj\Debug\DataAccessTier.pdb

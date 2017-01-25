@@ -12,3 +12,6 @@ C:\Repo\IT481\Unit2\NtierApplication\NtierApplication\PresentationTier\obj\Debug
 C:\Repo\IT481\Unit3\NtierApplication\PresentationTier\bin\Debug\PresentationTier.exe.config
 C:\Repo\IT481\Unit3\NtierApplication\PresentationTier\obj\Debug\PresentationTier.exe
 C:\Repo\IT481\Unit3\NtierApplication\PresentationTier\obj\Debug\PresentationTier.pdb
+C:\Repo\IT481\Unit3\test\school\PresentationTier\bin\Debug\PresentationTier.exe.config
+C:\Repo\IT481\Unit3\test\school\PresentationTier\obj\Debug\PresentationTier.exe
+C:\Repo\IT481\Unit3\test\school\PresentationTier\obj\Debug\PresentationTier.pdb
