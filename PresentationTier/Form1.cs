@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
 
 namespace PresentationTier
 {
@@ -44,13 +45,18 @@ namespace PresentationTier
             }
             else
             {
-                postAuthentication();
+                String UserName = txtUserName.Text.Trim();
+                String Password = txtPassword.Text.Trim();
+                preAuthentication(UserName, Password);
             }
-           
         }
-        private void postAuthentication()
+        private void preAuthentication(String UserName, String Password)
         {
-            this.Text = "Continue";
+            this.Text = "Welcome " + UserName;
+        }
+        private void postAuthentication(String UserName, String Password)
+        {
+            this.Text = "continue";
             label3.Show();
             btn3_opt.Show();
             btn4_next.Show();
@@ -81,6 +87,10 @@ namespace PresentationTier
             label3.Hide();
             pictureBox2.Hide();
         }
-        
+
+        private void txtUserName_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
