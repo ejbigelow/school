@@ -38,12 +38,24 @@ namespace PresentationTier
 
         private void btn2_ok_Click(object sender, EventArgs e)
         {
+            if (txtUserName.Text == String.Empty || txtPassword.Text == String.Empty)
+            {
+                MessageBox.Show("You must enter a user name and password to continue");
+            }
+            else
+            {
+                postAuthentication();
+            }
+           
+        }
+        private void postAuthentication()
+        {
             this.Text = "Continue";
             label3.Show();
             btn3_opt.Show();
             btn4_next.Show();
             pictureBox2.Show(); // database picture retrieved from blog https://lazyprogrammer.me/category/databases/
-            pictureBox1.Hide(); 
+            pictureBox1.Hide();
             groupBox1.Hide();
             btn2_ok.Hide();
             label1.Hide();
@@ -55,8 +67,12 @@ namespace PresentationTier
             btn3_opt.Text = "Back";
             btn4_next.Text = "&Next";
             btn1_cancel.Text = "E&xit";
-            groupBox1.Text = "Please sign in";
+        }
 
+        //Authentication method
+        private bool athenticateUser(string text1, string text2)
+        {
+            throw new NotImplementedException();
         }
 
         private void btn4_next_Click(object sender, EventArgs e)
@@ -65,5 +81,6 @@ namespace PresentationTier
             label3.Hide();
             pictureBox2.Hide();
         }
+        
     }
 }
