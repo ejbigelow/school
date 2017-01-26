@@ -27,7 +27,7 @@ namespace PresentationTier
             label1.Text = "User name:";
             label2.Text = "Password:";
             btn2_ok.Text = "Login";
-            btn1_cancel.Text = "Cancel";
+            btn1_cancel.Text = "E&xit";
             groupBox1.Text = "Please sign in";
         }
 
@@ -53,19 +53,17 @@ namespace PresentationTier
             label1.Text = "User name:";
             label2.Text = "Password:";
             btn3_opt.Text = "Back";
-            btn4_next.Text = "Next";
-            btn1_cancel.Text = "Cancel";
+            btn4_next.Text = "&Next";
+            btn1_cancel.Text = "E&xit";
             groupBox1.Text = "Please sign in";
 
         }
 
         private void btn4_next_Click(object sender, EventArgs e)
         {
-            ServiceReference1.Service1Client DataSvc =
-                new ServiceReference1.Service1Client();
-            northwindDataSet.Customers.Merge(DataSvc.GetCustomers());
-            northwindDataSet.Orders.Merge(DataSvc.GetOrders());
             this.Text = "Now viewing";
+            label3.Hide();
+            pictureBox2.Hide();
         }
     }
 }
